@@ -1,4 +1,5 @@
-ld]
+[build]
+
 publish = "public"
 command = "hugo --gc --minify"
 
